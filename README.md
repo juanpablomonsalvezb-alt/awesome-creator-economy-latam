@@ -9,6 +9,7 @@ Maintained by the community. Contributions welcome — see [CONTRIBUTING.md](CON
 ## Contents
 
 - [Membership platforms](#membership-platforms)
+- [Digital product storefronts](#digital-product-storefronts)
 - [Payment processors LATAM](#payment-processors-latam)
 - [Newsletter platforms](#newsletter-platforms)
 - [Video and podcast monetization](#video-and-podcast-monetization)
@@ -34,6 +35,18 @@ Maintained by the community. Contributions welcome — see [CONTRIBUTING.md](CON
 - [Memberful](https://memberful.com) — Membership infrastructure that plugs into your own site, owned by Patreon.
 - [Ko-fi](https://ko-fi.com) — Tips, commissions and memberships, 0% on tips, 5% on the Gold plan.
 - [Buy Me a Coffee](https://buymeacoffee.com) — Tips and memberships, 5% platform fee.
+
+## Digital product storefronts
+
+### LATAM-first
+
+- [Estante](https://estante.store) — Argentine storefront for selling digital files (PDFs, templates, presets). Local-currency checkout with instalments and automatic delivery, 8% per sale and no monthly fee.
+- [Hotmart](https://hotmart.com) — Brazilian platform for courses and digital products, widely used across the region, ~9.9% per sale.
+
+### Global (used in LATAM)
+
+- [Payhip](https://payhip.com) — Sell digital downloads and courses, free plan with a 5% fee, USD-only payouts.
+- [Lemon Squeezy](https://lemonsqueezy.com) — Merchant of record for digital goods, handles tax, USD-only payouts.
 
 ## Payment processors LATAM
 
