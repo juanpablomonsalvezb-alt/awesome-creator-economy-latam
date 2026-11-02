@@ -67,6 +67,7 @@ Maintained by the community. Contributions welcome — see [CONTRIBUTING.md](CON
 - [Chartable](https://chartable.com) — Podcast analytics and attribution (acquired by Spotify).
 - [Podtrac](https://podtrac.com) — Podcast measurement and ranking.
 - [Plausible](https://plausible.io) — Privacy-friendly web analytics.
+- [HornyIndex](https://hornyindex.com/es) — Buscador en español de creadores de OnlyFans, Fansly y otras plataformas de suscripción, con filtros por nicho, precio y país; los creadores de LATAM pueden reclamar su ficha gratis para ser encontrados.
 - [Umami](https://umami.is) — Open-source web analytics, self-hostable.
 - [Fathom](https://usefathom.com) — Privacy-friendly analytics, GDPR/LGPD friendly.
 
