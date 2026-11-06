@@ -75,6 +75,7 @@ Maintained by the community. Contributions welcome — see [CONTRIBUTING.md](CON
 - [Nebbuler Salarios LATAM Dataset](https://nebbuler.com/datos) — Open dataset (CC-BY) of professional and creator income references across LATAM countries.
 - [Statista Creator Economy LATAM](https://www.statista.com/topics/creator-economy) — Paid market data.
 - [SignalFire Creator Economy Report](https://signalfire.com) — Annual creator economy market map.
+- [twtData X trends archive](https://twtdata.com/es/twitter-trends/mexico/) — Free archive of X trends by country, no sign-up, in Spanish; shows what each LATAM market is talking about.
 
 ## Communities
 
