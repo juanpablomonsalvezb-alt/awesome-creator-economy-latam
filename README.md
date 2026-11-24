@@ -75,6 +75,7 @@ Maintained by the community. Contributions welcome — see [CONTRIBUTING.md](CON
 - [Nebbuler Salarios LATAM Dataset](https://nebbuler.com/datos) — Open dataset (CC-BY) of professional and creator income references across LATAM countries.
 - [Statista Creator Economy LATAM](https://www.statista.com/topics/creator-economy) — Paid market data.
 - [SignalFire Creator Economy Report](https://signalfire.com) — Annual creator economy market map.
+- [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) — Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
 
 ## Communities
 
